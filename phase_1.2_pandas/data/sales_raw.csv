@@ -1,0 +1,11 @@
+transaction_id,customer_name,product,quantity,unit_price
+T001,Rahul,Laptop,2,45000
+T002,Priya,Mouse,3,500
+T003,,Keyboard,2,1200
+T004,Amit,Monitor,0,8000
+T005,Neha,Headphones,2,1500
+T006,Ravi,Keyboard,2,-1200
+T007,Simran,Mouse,5,500
+T007,Monitor,1,8000
+T008,Arjun,Laptop,one,45000
+T009,Karan,,2,1000

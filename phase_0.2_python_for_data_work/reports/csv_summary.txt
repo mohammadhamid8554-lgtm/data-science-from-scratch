@@ -1,0 +1,12 @@
+CSV File Summary
+Total CSV Files: 10
+customers.csv: 109 bytes
+expenses.csv: 93 bytes
+new_records.csv: 36 bytes
+new_students.csv: 38 bytes
+product_sales.csv: 53 bytes
+sales.csv: 85 bytes
+sales_summary.csv: 48 bytes
+students.csv: 36 bytes
+student_report.csv: 60 bytes
+student_results.csv: 51 bytes

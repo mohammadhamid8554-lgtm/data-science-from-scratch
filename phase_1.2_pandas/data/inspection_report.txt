@@ -1,0 +1,9 @@
+FILE AND FOLDER INSPECTION
+====================
+Folder: C:\Users\moham\OneDrive\Desktop\data_science_scratch_jod_ready\phase_0_projects\data
+Total Files: 7
+Total Folders: 0
+
+File type summary:
+.json: 2
+.csv: 5

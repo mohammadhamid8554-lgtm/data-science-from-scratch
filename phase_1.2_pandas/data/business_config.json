@@ -1,0 +1,8 @@
+
+{
+    "shop_name": "Smart Shop",
+    "currency": "INR",
+    "tax_rate": 5,
+    "minimum_stock_level": 5
+}
+

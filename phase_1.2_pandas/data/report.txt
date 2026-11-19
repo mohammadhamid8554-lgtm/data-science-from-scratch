@@ -1,0 +1,8 @@
+====================
+sales per month
+====================
+sales increased by 10% last month
+
+Character count: 33
+Word count: 6
+Line count: 1

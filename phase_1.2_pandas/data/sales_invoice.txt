@@ -1,0 +1,7 @@
+SALES INVOICE
+------------------------------
+Customer Name:Tom
+Product Name: Mouse
+Price per item: 800.0
+Quantity: 4
+Total Product Amount: 3200.0
