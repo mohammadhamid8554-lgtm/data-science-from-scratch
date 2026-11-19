@@ -22,5 +22,5 @@ A structured, hands-on repository documenting my end-to-end data science learnin
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/mohammadhamid8554-lgtm/data-science-from-scratch.git](https://github.com/mohammadhamid8554-lgtm/data-science-from-scratch.git)
+  git clone https://github.com/mohammadhamid8554-lgtm/data-science-from-scratch.git
    cd data-science-from-scratch
