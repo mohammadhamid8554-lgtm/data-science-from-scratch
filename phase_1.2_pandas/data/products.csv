@@ -1,0 +1,31 @@
+product_id,product_name,category,standard_price
+P001,Sports Item 01,Sports,199.0
+P002,Electronics Item 02,Electronics,499.0
+P003,Fashion Item 03,Fashion,499.0
+P004,Sports Item 04,electronics,299.0
+P005,Fashion Item 05,Fashion,199.0
+P006,Fashion Item 06,Fashion,2499.0
+P007,Fashion Item 07,Fashion,1499.0
+P008,Home Item 08,Home,299.0
+P009,Sports Item 09,Sports,2499.0
+P010,Sports Item 10,Sports,499.0
+P011,Home Item 11,Home,299.0
+P012,  electronics item 12 ,Electronics,1499.0
+P013,Fashion Item 13,Fashion,499.0
+P014,Fashion Item 14,Fashion,299.0
+P015,Home Item 15,Home,8999.0
+P016,Electronics Item 16,Electronics,4999.0
+P017,Sports Item 17,Sports,4999.0
+P018,Home Item 18,Home,299.0
+P019,Home Item 19,Home,1499.0
+P020,Office Item 20,Office,15999.0
+P021,Office Item 21,Office,0.0
+P022,Home Item 22,Home,4999.0
+P023,Electronics Item 23,Electronics,1499.0
+P024,Fashion Item 24,Fashion,999.0
+P025,Home Item 25,Home,499.0
+P026,Home Item 26,Home,999999.0
+P027,Fashion Item 27,Fashion,8999.0
+P028,Office Item 28,Office,299.0
+P029,Home Item 29,Home,199.0
+P003,Electronics Item 30,Electronics,499.0
